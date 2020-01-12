@@ -1,0 +1,4 @@
+/home/zy/QT/HyperLPR-DEMO/build/CMakeFiles/rebuild_cache.dir
+/home/zy/QT/HyperLPR-DEMO/build/CMakeFiles/HyperLPR-DEMO.dir
+/home/zy/QT/HyperLPR-DEMO/build/CMakeFiles/edit_cache.dir
+/home/zy/QT/HyperLPR-DEMO/build/CMakeFiles/HyperLPR-DEMO_autogen.dir
